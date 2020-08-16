@@ -43,7 +43,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA2L8B-Q21761nyu-BePrYkza6cJv_GPKw" />
+            android:value="API" />
 
         <receiver android:name=".Alarm.AlarmReceiver" />
     </application>
